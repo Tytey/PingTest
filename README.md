@@ -1,0 +1,1 @@
+essentially is a better version of thw windows ping command - repeatdely uses it to get a real time reading of ping then prints ping with a visualtion and in colour. Exact command encluding IP addresss pinged can be changed, be default its google 
